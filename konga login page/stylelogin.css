@@ -1,0 +1,50 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    margin: 10;
+    padding: 10;
+}
+.head{
+    display: inline;
+    margin: auto;
+    border: 2px solid brown;
+    
+    width: 200px;
+    
+
+}
+.button{
+    width: 400px ;
+    height: 75px;
+    padding: 9px;
+}
+.box{
+    padding: 50px; 
+    
+}
+input[type=text]{
+    padding: 12px;
+    margin: 10px;
+    box-sizing: border-box;
+    border: 1px solid black;
+    width: 350px;
+    border-radius: 4px;
+    
+    
+}
+.btn{
+    width: 350px;
+    height: 75;
+    padding:9px;
+    
+}
+h5{
+    text-align: center;
+}
+label{
+    text-align: center;
+}
+h2{
+    text-align: center;
+}
